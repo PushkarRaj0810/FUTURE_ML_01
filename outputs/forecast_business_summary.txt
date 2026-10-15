@@ -1,0 +1,7 @@
+Forecast period: 2017-08-16 to 2017-09-14
+Forecast total sales: 27,324,438.66
+Average forecast daily sales: 910,814.62
+Average of most recent 30 actual days: 832,844.23
+Average change vs recent 30 days: 9.36%
+Highest forecast day: 2017-09-10 (1,105,488.83)
+Planning note: use the forecast as a baseline for inventory, staffing, and cash-flow planning. The error band reflects holdout-period errors; it is not a guarantee and does not account for future promotions, holidays, or other one-off events.
